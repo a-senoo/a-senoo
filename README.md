@@ -1,6 +1,5 @@
 ## Most Used Language
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a-senoo&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a-senoo&theme=default)
+![](https://metrics.lecoq.io/a-senoo)
 
 ## Skils
 ![](https://skillicons.dev/icons?i=html,css,js,typescript)
