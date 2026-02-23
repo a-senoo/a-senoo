@@ -48,21 +48,6 @@
 
 ## 📊 **GitHub Analytics**
 <div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/a-senoo/a-senoo/main/profile-summary-card-output/onedark/0-profile-details.svg" />
-  </a>
-  <br/>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/a-senoo/a-senoo/main/profile-summary-card-output/onedark/1-repos-per-language.svg" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/a-senoo/a-senoo/main/profile-summary-card-output/onedark/2-most-commit-language.svg" />
-  </a>
-  <br/>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/a-senoo/a-senoo/main/profile-summary-card-output/onedark/3-stats.svg" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/a-senoo/a-senoo/main/profile-summary-card-output/onedark/4-productive-time.svg" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-senoo&custom_title=a-senoo's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+</div>
 </div>
