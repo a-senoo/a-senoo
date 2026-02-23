@@ -48,8 +48,21 @@
 
 ## 📊 **GitHub Analytics**
 <div align="center">
-  <img src="https://raw.githubusercontent.com/a-senoo/a-senoo/profile-summary-card-output/profile-summary-card-output/github-dark-dimmed/0-profile-details.svg" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/a-senoo/a-senoo/main/profile-summary-card-output/onedark/0-profile-details.svg" />
+  </a>
   <br/>
-  <img src="https://raw.githubusercontent.com/a-senoo/a-senoo/profile-summary-card-output/profile-summary-card-output/github-dark-dimmed/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/a-senoo/a-senoo/profile-summary-card-output/profile-summary-card-output/github-dark-dimmed/2-most-commit-language.svg" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/a-senoo/a-senoo/main/profile-summary-card-output/onedark/1-repos-per-language.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/a-senoo/a-senoo/main/profile-summary-card-output/onedark/2-most-commit-language.svg" />
+  </a>
+  <br/>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/a-senoo/a-senoo/main/profile-summary-card-output/onedark/3-stats.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/a-senoo/a-senoo/main/profile-summary-card-output/onedark/4-productive-time.svg" />
+  </a>
 </div>
